@@ -1,0 +1,7 @@
+.four-o-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+    font-size: 20px;
+}
